@@ -73,6 +73,19 @@ I am a results-driven Machine Learning Engineer and Data Science Researcher. I f
 </p>
 
 ---
+## 🌐 Socials:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/priyanka-sarkar-/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-badges/badges/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/preyanka" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-badges/badges/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@PREYANKARANI-if1ze" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-badges/badges/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+</p>
 
 ## 🚀 Featured Engineering Projects
 
@@ -84,13 +97,23 @@ I am a results-driven Machine Learning Engineer and Data Science Researcher. I f
 
 ---
 
-## 📊 Analytics
+## 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preyanka-rani&show_icons=true&theme=transparent&hide_border=true&title_color=0E76A8&text_color=ffffff&icon_color=0E76A8" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preyanka-rani&theme=transparent&hide_border=true&title_color=0E76A8&text_color=ffffff&icon_color=0E76A8" width="48%" />
-</div>
+<p align="left">
+  <a href="https://github.com/preyanka-rani">
+    <img src="https://github-readme-stats.vercel.app/api?username=preyanka-rani&show_icons=true&theme=radical" alt="Preyanka's GitHub Stats" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/preyanka-rani">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preyanka-rani&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=preyanka-rani&label=Profile%20Views&color=0E76A8&style=for-the-badge" alt="Profile Views" />
-</div>
+## 🔝 Top Contributed Repo
+
+<p align="left">
+  <a href="https://github.com/preyanka-rani">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=preyanka-rani&repo=preyanka-rani&theme=radical" alt="Top Repo" />
+  </a>
+</p>
