@@ -97,23 +97,17 @@ I am a results-driven Machine Learning Engineer and Data Science Researcher. I f
 
 ---
 
+---
+
 ## 📊 GitHub Stats:
 
 <p align="left">
   <a href="https://github.com/preyanka-rani">
-    <img src="https://github-readme-stats.vercel.app/api?username=preyanka-rani&show_icons=true&theme=radical" alt="Preyanka's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=preyanka-rani&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Preyanka's GitHub Stats" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/preyanka-rani">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preyanka-rani&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</p>
-
-## 🔝 Top Contributed Repo
-
-<p align="left">
-  <a href="https://github.com/preyanka-rani">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=preyanka-rani&repo=preyanka-rani&theme=radical" alt="Top Repo" />
   </a>
 </p>
